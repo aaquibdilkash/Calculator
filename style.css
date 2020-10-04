@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    width: 50vw;
+    height: 40vh;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    border: 0.4rem solid black;
+    width: auto;
+}
+
+button{
+    border-radius: 4vw;
+    font-size: 1.5rem;
+    background: chartreuse;
+    width: 5rem;
+    height: auto;
+    border: 0.4rem solid black;
+    margin: 0.04rem;
+}
+
+.calculator{
+    display: inline-block;
+    background-color: grey;
+    padding: 0.4rem;
+    border-radius: 1.5rem;
+    border: 0.7rem solid black;
+    align-items: center;
+}
+h1{
+    font-size: 5rem;
+    font-weight: bolder;
+}
